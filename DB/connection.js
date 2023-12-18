@@ -3,7 +3,7 @@
 const mongoose = require("mongoose");
 
 const connectionString =
-  "mongodb+srv://aadil:starshipeleven@cluster0.0p0ih.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "xxxx";
 
 const connectToMongoDB = () => {
   mongoose.connect(

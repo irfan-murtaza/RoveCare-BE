@@ -7,7 +7,7 @@ app.use(cors());
 require("./DB/connection");
 
 const stripe = require("stripe")(
-  "sk_test_51L4kwXCGMIiTrPToSwRvRueCS7TlybkMatqq1t2Q2CmenuuLhISF6gE9u9TRkUxxgtXLsQjYRH19kxrPX1acXHjs00Id62DfV3"
+  "xxxx"
 );
 
 // app.use(express.static("public"));
